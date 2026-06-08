@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "freeGon Grid Matcher"
+abstract: >-
+  A tool for spatially matching transmission line data between JAO
+  (Joint Allocation Office / CORE-TSO) and PyPSA (Python for Power
+  System Analysis) formats. Provides automated spatial matching,
+  manual override support, electrical parameter transfer, transformer
+  matching, and interactive HTML visualizations.
+authors:
+  - given-names: Mohsen
+    family-names: Mansouri
+    affiliation: "Reiner Lemoine Institut gGmbH"
+  - given-names: Jonathan
+    family-names: Amme
+    affiliation: "Reiner Lemoine Institut gGmbH"
+    orcid: "https://orcid.org/0000-0002-8563-5261"
+repository-code: "https://github.com/rl-institut/freeGon-grid-matcher"
+license: MIT
+version: "1.0.0"
+date-released: "2025-10-06"
+keywords:
+  - transmission grid
+  - power systems
+  - PyPSA
+  - JAO
+  - CORE-TSO
+  - grid matching
+  - geospatial
