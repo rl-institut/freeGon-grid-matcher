@@ -12,10 +12,11 @@ authors:
   - given-names: Mohsen
     family-names: Mansouri
     affiliation: "Reiner Lemoine Institut gGmbH"
+    orcid: https://orcid.org/0000-0002-3098-750X
   - given-names: Jonathan
     family-names: Amme
     affiliation: "Reiner Lemoine Institut gGmbH"
-    orcid: "https://orcid.org/0000-0002-8563-5261"
+    orcid: https://orcid.org/0000-0002-8563-5261
 repository-code: "https://github.com/rl-institut/freeGon-grid-matcher"
 license: MIT
 version: "1.0.0"
