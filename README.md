@@ -287,4 +287,4 @@ Contributions are welcome! Please open an issue or submit a pull request with im
 
 ## License
 
-This project is licensed under the MIT License — see the `LICENSE` file for details.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) — see the `LICENSE` file for details.

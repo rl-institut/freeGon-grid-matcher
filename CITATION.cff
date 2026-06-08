@@ -18,7 +18,7 @@ authors:
     affiliation: "Reiner Lemoine Institut gGmbH"
     orcid: https://orcid.org/0000-0002-8563-5261
 repository-code: "https://github.com/rl-institut/freeGon-grid-matcher"
-license: MIT
+license: AGPL-3.0
 version: "1.0.0"
 date-released: "2025-10-06"
 keywords:
